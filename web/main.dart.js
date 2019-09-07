@@ -9164,7 +9164,7 @@ m=P.l
 l=[{func:1,ret:-1,args:[P.a2]}]
 new N.Gt(null,r,!0,0,new P.bs(new P.V(p,[q]),[q]),!1,null,null,null,null,null,null,null,N.Wr(),new Y.yz(N.Wq(),n,[o]),!1,0,P.t(m,N.fW),P.aV(m),H.d([],l),H.d([],l),null,!1,C.be,!0,!1,null,C.Y,C.Y,null,0,null,!1,null,P.zJ(F.bI),new O.C9(P.t(m,[P.jZ,O.dn]),P.fp(O.dn)),new D.y7(P.t(m,D.it)),new G.Cc(),P.t(m,O.jE)).BD()}r=$.aX
 q=r.b$.d
-r.z$=new N.CZ(new S.oj(new F.Gl(null),"Webby",s,!1,null),q,"[root]",new N.jA(q,[[N.a_,N.cd]]),[S.aW]).Il(r.d$,r.z$)
+r.z$=new N.CZ(new S.oj(new F.Gl(null),"Flutter Web Demo",s,!1,null),q,"[root]",new N.jA(q,[[N.a_,N.cd]]),[S.aW]).Il(r.d$,r.z$)
 r.z5()
 return P.aa(null,t)}})
 return P.ab($async$uf,t)}},T={fK:function fK(a){this.b=a},hJ:function hJ(a){this.a=a},k1:function k1(a,b){this.a=a
